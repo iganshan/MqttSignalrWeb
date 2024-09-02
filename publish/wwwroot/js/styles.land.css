@@ -1,0 +1,23 @@
+html {
+    overflow-y: scroll;
+}
+
+body, html {
+    height: 100%;
+}
+
+
+
+.fullpage {
+    /*background-color: #1a4ef8;
+    background: linear-gradient(45deg,#1743d7 35%,#174af3);*/
+}
+#particles canvas {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+
